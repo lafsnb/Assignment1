@@ -452,7 +452,8 @@ PlayerSettings:
   XboxOneAllowedProductIds: []
   XboxOnePersistentLocalStorageSize: 0
   vrEditorSettings: {}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   cloudProjectId: 56832e98-65f1-4354-9e0b-42492ce40979
   projectName: Assignment1
   organizationId: isaac-kingston
